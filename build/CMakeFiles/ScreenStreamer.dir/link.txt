@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ScreenStreamer.dir/ScreenStreamer.cpp.o -o ScreenStreamer   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lgstwebrtc-1.0 -lgstsdp-1.0 -lgstpbutils-1.0 -lgstaudio-1.0 -lgstvideo-1.0 -lgstrtspserver-1.0 -lgstbase-1.0 -lgstcheck-1.0 -lm -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 

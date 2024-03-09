@@ -1,4 +1,0 @@
-/home/duoq/workplace/CamAndScreenStreamGstreamer/build/CMakeFiles/edit_cache.dir
-/home/duoq/workplace/CamAndScreenStreamGstreamer/build/CMakeFiles/rebuild_cache.dir
-/home/duoq/workplace/CamAndScreenStreamGstreamer/build/CMakeFiles/CamStreamer.dir
-/home/duoq/workplace/CamAndScreenStreamGstreamer/build/CMakeFiles/ScreenStreamer.dir
